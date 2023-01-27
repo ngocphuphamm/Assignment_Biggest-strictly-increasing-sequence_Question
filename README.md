@@ -3,7 +3,7 @@ Install NodeJS
 
 ## Run commandline
 ```
-  cd Assignment-C2CTECHHUB/src
+  cd Assignment_Biggest-strictly-increasing-sequence_Question/src
   node main.js 
 ```
 
