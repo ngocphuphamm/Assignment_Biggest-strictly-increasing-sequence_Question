@@ -2,7 +2,7 @@
 Install NodeJS
 
 ## Run commandline
-- cd Assignment-C2CTECHHUB/
+- cd Assignment-C2CTECHHUB/src
 - node main.js 
 
 ## Change case 
