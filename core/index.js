@@ -67,7 +67,7 @@ function compareAdjacentValue(matrix, dp, i, j, direction) {
         case UP_DIRECTION:
             return matrix[i][j] > matrix[i - 1][j] ? dp[i - 1][j] + 1 : 1;
         default:
-            throw new Error("Invalid direction: must be 'left' or 'up'");
+            throw new Error(`Invalid direction: must be ${LEFT_DIRECTION} or ${UP_DIRECTION}`);
     }
 }
 
